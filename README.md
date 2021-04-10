@@ -8,5 +8,5 @@ The script creates a new folder at your current directory location, changes dire
 
 Run in command line using:
   
-  C:PATH\git-init.bat [remote-repository-name]
+  C:PATH\git-init.bat [remote-repository-name] [github-username]
 
